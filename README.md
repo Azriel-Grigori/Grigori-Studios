@@ -1,2 +1,2 @@
-# Grigori-Studios
-Arch-Viz / Game
+# Big Bad Wolf-Games
+Game Designer
